@@ -1,0 +1,8 @@
+Sistema iControl
+
+O sistema tem a funcionalidade de registrar os gastos mensal de cada usuario.
+
+1 - Diversos usuários
+2 - Controle mensal dos gastos
+3 - Gastos organizados em 3 categorias (fixos, programaveis, ocasionais)
+4 - Gastos subOrganizados em 5 modalidade  (gastos residencial, gastos locomoção, gastos alimentação, gastos educação, gastos diversos)
